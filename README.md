@@ -23,7 +23,7 @@
 
 ### 4. Count Frequency of Each Element
 - **Problem**: Count and display how many times each element occurs in the array.
-- **Solution**: [frequency_count.cpp](https://github.com/Dikta-dikta/C-assignments/blob/main/count%20frequency%20in%20array)
+- **Solution**: [frequency_count.c](https://github.com/Dikta-dikta/C-assignments/blob/main/count%20frequency%20in%20array)
 
 ---
 
