@@ -3,11 +3,11 @@
 
 int main() {
     char str[100], temp;
-    int i, len;
+    int i, len, pal;
 
     printf("Enter a string: ");
     scanf("%s", str);
-
+    pal = str;
     len = strlen(str);
 
     for (i = 0; i < len / 2; i++) 
@@ -19,5 +19,17 @@ int main() {
 
     printf("Reversed string: %s\n", str);
 
-    return 0;
+ if (pal==str)
+    { 
+    printf("The string is a palindrome.");
+    } 
+else 
+    {
+    printf("The string is not a palindrome.");
+    }
+   return 0;
 }
+
+
+
+
