@@ -35,7 +35,7 @@
 
 ### 6. Check if Array is Sorted
 - **Problem**: Determine whether a given array is sorted in non-decreasing order.
-- **Solution**: [check_sorted.cpp](https://github.com/Dikta-dikta/C-assignments/blob/main/check%20array%20if%20sorted%20or%20not)
+- **Solution**: [check_sorted.c](https://github.com/Dikta-dikta/C-assignments/blob/main/check%20array%20if%20sorted%20or%20not)
 
 ---
 
