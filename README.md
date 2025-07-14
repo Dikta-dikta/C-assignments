@@ -62,3 +62,15 @@
 - **Solution**: [max sub_array sum.c](https://github.com/Dikta-dikta/C-assignments/blob/main/Maximum%20sub%20array%20sum)
 
 ---
+
+### 11. Factorial
+- **Problem**: Find the Factorial of a given number.
+- **Solution**: [Factorial.c](https://github.com/Dikta-dikta/C-assignments/blob/main/Factorial)
+
+---
+
+### 12. Uppercase to Lowercase in a string 
+- **Problem**: Print after Changing Uppercase to Lowercase in a string . 
+- **Solution**: [Change case.c](https://github.com/Dikta-dikta/C-assignments/blob/main/Change%20UPPERCASE%20to%20lowercase%20in%20a%20string)
+
+---
